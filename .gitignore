@@ -1,0 +1,6 @@
+figures
+talk-figures
+.ipynb_checkpoints
+*~
+*.pdf
+*.png
