@@ -1,5 +1,5 @@
 # statistical_missteps
-Supplement to Three common statistical missteps we make in reservoir characterization
+Supplement to Three common statistical missteps we make in reservoir characterization  
 Authors: Frank Male and Jerry Jensen
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/frank1010111/statistical_missteps/master)
