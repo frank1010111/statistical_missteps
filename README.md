@@ -10,6 +10,6 @@ Here we show, through Monte Carlo experiments, three examples of statistical mis
 The mistakes are
 1. Applying algebra to linear least squares regression models
 2. Improperly de-transforming a log-transformed variable in a linear least square model without accounting for bias
-3. Mis-applying R^2^
+3. Mis-applying R<sup>2<sup>
 
 The examples are in Statistics pitfalls.ipynb. Anyone can run these examples on Binder or Google Colab by clicking on the buttons above.
