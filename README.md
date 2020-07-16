@@ -12,4 +12,8 @@ The mistakes are
 2. Improperly de-transforming a log-transformed variable in a linear least square model without accounting for bias
 3. Mis-applying R<sup>2<sup>
 
-The examples are in Statistics pitfalls.ipynb. Anyone can run these examples on Binder or Google Colab by clicking on the buttons above.
+All of the examples are in Statistics pitfalls.ipynb. Exposition around the first mistake is available in the notebook "Applying algebra to regression.ipynb." 
+
+Anyone can run these examples on Binder or Google Colab by clicking on the buttons above.
+
+The preprint is available at [EarthArXiV](https://eartharxiv.org/q7nw6/).
