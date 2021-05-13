@@ -3,7 +3,7 @@ Supplement to Three common statistical missteps we make in reservoir characteriz
 Authors: Frank Male and Jerry Jensen
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/frank1010111/statistical_missteps/master)
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/frank1010111/statistical_missteps/master/Statistics%20pitfalls.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/frank1010111/statistical_missteps/blob/master/Statistics%20pitfalls.ipynb)
 
 Here we show, through Monte Carlo experiments, three examples of statistical missteps that we have seen in the reservoir characterization literature.
 
