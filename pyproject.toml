@@ -6,12 +6,13 @@ authors = [
     {name = "Frank Male", email = "frank.male@psu.edu"},
 ]
 dependencies = [
-    "numpy==1.18.*", 
-    "matplotlib==3.1.*", 
-    "pandas==1.0.*", 
-    "scipy==1.4.*", 
-    "seaborn==0.10.0", 
-    "statsmodels==0.11.0",
+    "notebook >=5.0",
+    "numpy >=1.18",
+    "matplotlib >=3.1",
+    "pandas >=1.0",
+    "scipy >=1.4",
+    "seaborn >=0.10.0",
+    "statsmodels >=0.11.0",
 ]
 requires-python = ">=3.9"
 license = {text = "GPLv3"}
