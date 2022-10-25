@@ -2,3 +2,5 @@ libblas3
 liblapack3
 liblapack-dev
 libblas-dev
+libatlas-base-dev
+
