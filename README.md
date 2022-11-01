@@ -24,7 +24,17 @@ first misstep is available in the notebook
 
 ## Interactive examples
 
-Anyone can run these examples on Binder or Google Colab by clicking on the
-buttons above.
+Anyone can run these examples on
+[Binder](https://mybinder.org/v2/gh/frank1010111/statistical_missteps/master) or
+[Google Colab](https://colab.research.google.com/github/frank1010111/statistical_missteps/blob/master/Statistics%20pitfalls.ipynb)
+by clicking on the buttons above.
 
-The preprint is available at [EarthArXiV](https://eartharxiv.org/q7nw6/).
+## Citing this work
+
+The citation is
+
+    Male, F. and Jensen, J.L., 2022. Three common statistical missteps we make in reservoir characterization. AAPG Bulletin, 106(11), pp.2149-2161. https://doi.org/10.1306/07202120076
+
+The official version is at the
+[AAPG Bulletin](https://doi.org/10.1306/07202120076). A preprint is available at
+[EarthArXiV](https://eartharxiv.org/q7nw6/).
