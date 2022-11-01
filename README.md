@@ -36,5 +36,5 @@ The citation is
     Male, F. and Jensen, J.L., 2022. Three common statistical missteps we make in reservoir characterization. AAPG Bulletin, 106(11), pp.2149-2161. https://doi.org/10.1306/07202120076
 
 The official version is at the
-[AAPG Bulletin](https://doi.org/10.1306/07202120076). A preprint is available at
-[EarthArXiV](https://eartharxiv.org/q7nw6/).
+[AAPG Bulletin](https://pubs.geoscienceworld.org/aapgbull/article/106/11/2149/618325/Three-common-statistical-missteps-we-make-in).
+A preprint is available at [EarthArXiV](https://eartharxiv.org/q7nw6/).
