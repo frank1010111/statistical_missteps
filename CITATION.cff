@@ -1,0 +1,53 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: >-
+  Three common statistical missteps we make in reservoir
+  characterization
+message: >-
+  If these notebooks are useful for you, consider citing
+  this paper
+type: article
+authors:
+  - given-names: Frank
+    family-names: Male
+    email: frank.male@psu.edu
+    affiliation: Penn State University
+    orcid: 'https://orcid.org/0000-0002-3402-5578'
+  - given-names: Jerry L.
+    family-names: Jensen
+    affiliation: University of Texas at Austin
+identifiers:
+  - type: doi
+    value: 10.1306/07202120076
+  - type: url
+    value: 'https://doi.org/10.1306/07202120076'
+repository-code: 'https://github.com/frank1010111/statistical_missteps'
+abstract: >-
+  Reservoir characterization analysis resulting from
+  incorrect applications of statistics can be found in the
+  literature, particularly in applications where integration
+  of various disciplines is needed. Here, we look at three
+  misapplications of ordinary least squares linear
+  regression (LSLR), show how they can lead to poor results,
+  and offer better alternatives, where available. The issues
+  are Application of algebra to an LSLR-derived model to
+  reverse the roles of explanatory and response variables
+  that may give biased predictions. In particular, we
+  examine pore-throat size equations (e.g., Winland’s and
+  Pittman’s equations) and find that claims of overpredicted
+  permeability may in part be because of statistical
+  mistakes.Using a log-transformed variable in an LSLR
+  model, detransforming without accounting for the role of
+  noise. This gives an equation that underpredicts the mean
+  value. Several approaches exist to address this
+  problem.Misapplication of the coefficient of determination
+  (R2) in three cases that lead to misleading results. For
+  example, model fitting in decline curve analysis gives
+  optimistic R2 values, as is also the case where a
+  multimodal explanatory variable is present. Using actual
+  and synthetic data sets, we illustrate the effects that
+  these errors have on analysis and some implications for
+  using machine learning results.
+date-released: '2022-11-01'
